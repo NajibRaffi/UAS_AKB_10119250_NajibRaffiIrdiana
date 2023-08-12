@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Diary_10119250</string>
+    <string name="title_home">Profil</string>
+    <string name="title_dashboard">Catatan</string>
+    <string name="title_notifications">Informasi Aplikasi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="profile">PROFILE</string>
+    <string name="name_profile">Najib Raffi Irdiana</string>
+    <string name="nim">10119250</string>
+    <string name="kelas">IF-4</string>
+    <string name="email">najib.10119250@mahasiswa.unikom.ac.id</string>
+    <string name="version">1.0.0</string>
+    <string name="copyright">Copyright 2023</string>
+    <string name="txt_add">Add Notes</string>
+    <string name="login">Login</string>
+    <string name="emailhint">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="sudah_punya_akun_klik_untuk_login">Sudah Punya Akun? Klik Untuk Login</string>
+    <string name="belum_punya_akun_klik_untuk_register">Belum Punya Akun? Klik Untuk Register</string>
+    <string name="logout">Logout</string>
+</resources>
